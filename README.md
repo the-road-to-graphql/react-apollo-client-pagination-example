@@ -1,6 +1,6 @@
 # react-apollo-client-pagination-example
 
-A minimal React application using Apollo Client with GitHub's GraphQL API. On the side, React's local state is still used for local data whereas Apollo Client with its queries and mutations is used for remote data. Additionally **Apollo Client's pagination feature** is implemented.
+A minimal React application using Apollo Client with GitHub's GraphQL API. As example **Apollo Client's pagination feature** is implemented.
 
 ## Installation
 
