@@ -1,6 +1,6 @@
 # react-apollo-client-pagination-example
 
-[![Build Status](https://travis-ci.org/the-road-to-graphql/react-apollo-client-pagination-example.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-apollo-client-pagination-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/the-road-to-graphql/react-apollo-client-pagination-example.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-apollo-client-pagination-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-graphql/react-apollo-client-pagination-example.svg)](https://greenkeeper.io/)
 
 A minimal React application using Apollo Client with GitHub's GraphQL API. As example **Apollo Client's pagination feature** is implemented.
 
